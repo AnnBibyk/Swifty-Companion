@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.9.1)
+  - DDSpiderChart (0.5)
+
+DEPENDENCIES:
+  - Alamofire
+  - DDSpiderChart
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DDSpiderChart
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  DDSpiderChart: e8ea6e63b54b08bd680c66cd48a0f51ca80b8f96
+
+PODFILE CHECKSUM: 7571f5ce1263e60dad8da472d2e36e97c795dca0
+
+COCOAPODS: 1.8.4
